@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://www.shutterstock.com/image-photo/green-background-texture-game-play-260nw-2756117157.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px
+}
+
+h1 {
+    color: goldenrod
+}
+
+button {
+    color:  #016f32;
+    background: goldenrod;
+    width: 150px;
+    padding:5px 0;
+    font-weight: bold;
+    margin: 2px
+}
